@@ -1,8 +1,8 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
+- Name: Bo Peng
+- Student ID: 1296325
 
 Member-2:
 - Name:
